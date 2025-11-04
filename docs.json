@@ -16,7 +16,8 @@
           {
             "group": "Overview",
             "pages": [
-              "welcome"]
+              "Welcome/welcome"
+            ]
           },
           {
             "group": "Customization",
