@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Connecting ER:LC Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#279FF5",
+    "light": "#27DAF5",
+    "dark": "#276CF5"
   },
   "favicon": "/logo/Untitled design (3).png",
   "navigation": {
