@@ -27,6 +27,11 @@
               "comms/partnership",
               "comms/store"
             ]
+          },
+          {
+            "group": "Roles",
+            "pages": "roles/qa"
+            
           }
         ]
       }
