@@ -27,6 +27,15 @@
 "comms/partnership",
 "comms/store"
 ]
+},
+{
+"group": "Staff",
+"pages": [
+"staff/highrank",
+"comms/affil",
+"comms/partnership",
+"comms/store"
+]
 }
 ]
 }
