@@ -31,10 +31,7 @@
 {
 "group": "Staff",
 "pages": [
-"staff/highrank",
-"comms/affil",
-"comms/partnership",
-"comms/store"
+"staff/highrank"
 ]
 }
 ]
