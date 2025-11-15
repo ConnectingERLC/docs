@@ -1,13 +1,13 @@
 {
 "$schema": "https://mintlify.com/docs.json",
 "theme": "mint",
-"name": "Connecting ER:LC Documentation",
+"name": "Alaska State Documentation",
 "colors": {
 "primary": "#279FF5",
 "light": "#27DAF5",
 "dark": "#276CF5"
 },
-"favicon": "/logo/Untitled design (3).png",
+"favicon": "/logo/alaska.webp",
 "navigation": {
 "tabs": [
 {
@@ -60,7 +60,7 @@
 "links": [
 {
 "label": "Support",
-"href": "mailto:connectingerlc@zohomail.com"
+"href": "https://discord.com/channels/1356341862486507743/1437235801355194398"
 }
 ],
 "primary": {
